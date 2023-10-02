@@ -1,10 +1,11 @@
 import './App.css'
+import FloorPlan from './Floorplan'
 
 function App() {
 
   return (
     <>
-      
+      <FloorPlan />
     </>
   )
 }
